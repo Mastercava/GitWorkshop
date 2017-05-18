@@ -1,6 +1,10 @@
 # GitWorkshop
 Demo Repository for the Git Workshop
 
+## This is text, a heading if you will
+
+Blah blah
+
 ##This was added by Kevin Hallock
 
 eleftheria pissadaki
@@ -15,3 +19,4 @@ Marco Cavallo
 2nd edit by Marco
 
 second ekp edit
+
